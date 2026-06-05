@@ -32,4 +32,4 @@ I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a
 		       
 PhD candidate:
 Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.</a><br>
-Allumni: <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a>Now at postdoc at CNRS.
+Allumni: <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a> Now at postdoc at CNRS.
