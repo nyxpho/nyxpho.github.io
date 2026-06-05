@@ -5,10 +5,16 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - https://github.com/tcalamai/acl_climateNLPtoolbox
+  - https://github.com/guihuzhang/FDSpotter
+  - https://github.com/ChadiHelwe/llm_political_compass
+  - https://github.com/guihuzhang/FactSpotter
+  - https://github.com/prajnaupadhyay/openie-with-entities
+  - https://github.com/nyxpho/graphcite
+  - https://github.com/sahaisaumya/informal_fallacies
+  - https://github.com/nyxpho/propaganda_eacl2021
+  - https://github.com/nyxpho/subrank
+  - https://github.com/nyxpho/jakobson
+  - https://github.com/nyxpho/evidense
+  - https://github.com/nyxpho/wsdm2015
+  
