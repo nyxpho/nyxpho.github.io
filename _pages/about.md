@@ -13,11 +13,11 @@ profile:
     <p>Inria Saclay, Bâtiment Alan Turing, 1 rue Honoré d’Estienne d’Orvet</p>
     <p>Palaiseau, France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -33,4 +33,4 @@ I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a
 		       
 PhD candidate:
 Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.</a><br>
-Allumni: <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a> Now at postdoc at CNRS.
+Allumni: <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a> Now a postdoc at CNRS.
