@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Contact</p>
     <p>Inria Saclay, Bâtiment Alan Turing, 1 rue Honoré d’Estienne d’Orvet</p>
     <p>Palaiseau, France</p>
 
