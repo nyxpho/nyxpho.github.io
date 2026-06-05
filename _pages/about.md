@@ -32,6 +32,4 @@ I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a
 		       
 PhD candidate:
 Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.
-Allumni:<a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a><br> Now at postdoc at CNRS.
-				   
-           Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Allumni: <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a><br> Now at postdoc at CNRS.
