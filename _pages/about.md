@@ -31,5 +31,5 @@ I am a researcher (ISFP) at Inria in the <a href="https://team.inria.fr/cedar">C
 I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a> conferences and journals.
 		       
 PhD candidate:
-Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.
+Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.<br>
 Allumni: <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a>Now at postdoc at CNRS.
