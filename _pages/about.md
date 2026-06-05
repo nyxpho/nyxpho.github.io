@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Inria, Institut Polytechnique de Paris</a>. firstname dot lastname at inria dot fr . Inria Saclay, Bâtiment Alan Turing, 1 rue Honoré d’Estienne d’Orves, 91120 Palaiseau, France.
+
 
 profile:
   align: right
@@ -30,11 +30,10 @@ I am a researcher (ISFP) at Inria in the <a href="https://team.inria.fr/cedar">C
 
 I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a> conferences and journals.
 		       
-									
-				   PhD candidate:
-				   Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.
-           Allumni:
-          <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a><br>, now at postdoc at CNRS.
+PhD candidate:
+Tom Calamai (2022  - present), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.
+Allumni:
+<a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a><br>, now at postdoc at CNRS.
 				   
 
            
