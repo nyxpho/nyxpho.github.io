@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   hwfhGwgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,15 +22,15 @@ papers:
     title: "2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)| 979-8-3315-0494-6/24/$31.00\xA9 2024 IEEE| DOI: 10.1109/WI-IAT62293. 2024.00148"
     year: Unknown Year
   hwfhGwgAAAAJ:IWHjjKOFINEC:
-    citations: 16
+    citations: 17
     title: 'Navigating the political compass: Evaluating multilingual llms across languages and nationalities'
     year: '2025'
   hwfhGwgAAAAJ:KlAtU1dfN6UC:
-    citations: 7
+    citations: 8
     title: 'Statistical claim checking: Statcheck in action'
     year: '2022'
   hwfhGwgAAAAJ:L8Ckcad2t8MC:
-    citations: 3
+    citations: 4
     title: 'Benchmarking the Benchmarks: Reproducing Climate-Related NLP Tasks'
     year: '2025'
   hwfhGwgAAAAJ:LkGwnXOMwfcC:
@@ -62,7 +62,7 @@ papers:
     title: Open information extraction with entity focused constraints
     year: '2023'
   hwfhGwgAAAAJ:UebtZRa9Y70C:
-    citations: 48
+    citations: 49
     title: Breaking down the invisible wall of informal fallacies in online discussions
     year: '2021'
   hwfhGwgAAAAJ:WF5omc3nYNoC:
@@ -74,15 +74,15 @@ papers:
     title: 'FactCheckBureau: Build Your Own Fact-Check Analysis Pipeline'
     year: '2024'
   hwfhGwgAAAAJ:Y0pCki6q_DkC:
-    citations: 157
+    citations: 158
     title: 'Prince: Provider-side interpretability with counterfactual explanations in recommender systems'
     year: '2020'
   hwfhGwgAAAAJ:ZeXyd9-uunAC:
-    citations: 2
+    citations: 3
     title: Structured discourse representation for factual consistency verification
     year: '2025'
   hwfhGwgAAAAJ:Zph67rFs4hoC:
-    citations: 8
+    citations: 9
     title: Fact-checking multidimensional statistic claims in French
     year: '2022'
   hwfhGwgAAAAJ:_FxGoFyzp5QC:
@@ -98,7 +98,7 @@ papers:
     title: Listing k-cliques in sparse real-world graphs
     year: '2018'
   hwfhGwgAAAAJ:dhFuZR0502QC:
-    citations: 17
+    citations: 18
     title: Corporate Greenwashing Detection in Text--a Survey
     year: '2025'
   hwfhGwgAAAAJ:hC7cP41nSMkC:
@@ -110,7 +110,7 @@ papers:
     title: 'EviDense: a Graph-based Method for Finding Unique High-impact Events with Succinct Keyword-based Descriptions'
     year: '2019'
   hwfhGwgAAAAJ:mVmsd5A6BfQC:
-    citations: 3
+    citations: 4
     title: 'STaR: Space and Time-aware Statistic Query Answering'
     year: '2024'
   hwfhGwgAAAAJ:qUcmZB5y_30C:
@@ -118,11 +118,11 @@ papers:
     title: 'The Search for Conflicts of Interest: Open Information Extraction in Scientific Publications'
     year: '2025'
   hwfhGwgAAAAJ:qjMakFHDy7sC:
-    citations: 61
+    citations: 62
     title: Analyzing the traits and anomalies of political discussions on reddit
     year: '2019'
   hwfhGwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 1
+    citations: 2
     title: 'Graph lenses over any data: the ConnectionLens experience'
     year: '2024'
   hwfhGwgAAAAJ:roLk4NBRz8UC:
