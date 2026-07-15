@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-15'
 papers:
   hwfhGwgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -46,7 +46,7 @@ papers:
     title: Finding dense subgraphs and events in social media
     year: '2017'
   hwfhGwgAAAAJ:QIV2ME_5wuYC:
-    citations: 0
+    citations: 1
     title: Finding Conflicts of Opinion in Citizen Participation Platforms
     year: '2024'
   hwfhGwgAAAAJ:Se3iqnhoufwC:
@@ -74,7 +74,7 @@ papers:
     title: 'FactCheckBureau: Build Your Own Fact-Check Analysis Pipeline'
     year: '2024'
   hwfhGwgAAAAJ:Y0pCki6q_DkC:
-    citations: 158
+    citations: 157
     title: 'Prince: Provider-side interpretability with counterfactual explanations in recommender systems'
     year: '2020'
   hwfhGwgAAAAJ:ZeXyd9-uunAC:
@@ -134,6 +134,6 @@ papers:
     title: Finding heaviest k-subgraphs and events in social media
     year: '2016'
   hwfhGwgAAAAJ:u5HHmVD_uO8C:
-    citations: 113
+    citations: 114
     title: Finding subgraphs with maximum total density and limited overlap
     year: '2015'
