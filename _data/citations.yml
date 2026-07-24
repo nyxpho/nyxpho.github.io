@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-24'
 papers:
   hwfhGwgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -74,7 +74,7 @@ papers:
     title: 'FactCheckBureau: Build Your Own Fact-Check Analysis Pipeline'
     year: '2024'
   hwfhGwgAAAAJ:Y0pCki6q_DkC:
-    citations: 157
+    citations: 156
     title: 'Prince: Provider-side interpretability with counterfactual explanations in recommender systems'
     year: '2020'
   hwfhGwgAAAAJ:ZeXyd9-uunAC:
