@@ -37,12 +37,13 @@ Currently, my research spans the following main directions:
 
 - Fact-Checking & Misleading Argumentation: We build systems that assist journalists in matching public claims with reliable evidence. In collaboration with the Le vrai du faux team at Radio France, we built StatCheck, a pipeline that verifies statistical claims against sovereign databases like INSEE and Eurostat. Furthermore, using argumentation mining, we detect informal fallacies and propaganda in political discussions, demonstrating how deceptive rhetoric actively drives user engagement online.  
 
-- AI Reliability (Hallucinations & Bias): To combat AI hallucinations, we develop tools that rigorously evaluate factual integrity. This includes FactSpotter, which assesses the factual faithfulness of graph-to-text generation, and FDSpotter, which ensures complex discourse relations between atomic facts are strictly preserved across generated texts. Furthermore, through our associated team, a href="https://team.inria.fr/cedar/mediumai/">MediumAI</a>, we are investigating new methodologies to identify and mitigate inherent biases in language models.
+- AI Reliability (Hallucinations & Bias): To combat LLM hallucinations, we develop tools that evaluate factual integrity. This includes FactSpotter, which assesses the factual faithfulness of graph-to-text generation, and FDSpotter, which ensures complex discourse relations between atomic facts are preserved across generated texts. Furthermore, through our associated team, <a href="https://team.inria.fr/cedar/mediumai/">MediumAI</a>, we are investigating new methodologies to identify and mitigate inherent biases in language models.
 
 - Climate NLP: My recent work identifies critical methodological gaps in the evaluation of climate NLP models and automated greenwashing detection. We are currently investigating how greenwashing manifests across diverse corporate communications and developing more robust NLP techniques to expose it.
-<br> 
+
+<br> 	<br> 
 I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a> conferences and journals.
-	<br> 	       
+	<br> 		<br>        
 
 Alumni: 
 Tom Calamai (2022  - 2026), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.</a><br>
