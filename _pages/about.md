@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 I am a researcher (ISFP) at Inria in the <a href="https://team.inria.fr/cedar">CEDAR</a> team and part-time assistant professor at École Polytechnique. 
-I had the priviledge to work, learn and make friends in many nice places: I was a postdoctoral researcher at Max Planck Institute for Informatics in the team of <a href="http://people.mpi-inf.mpg.de/~weikum/">Gerhard Weikum</a>, I did my PhD at Télécom Paris and my advisor was <a href="https://sites.google.com/site/maurosozio/home">Mauro Sozio</a>, and I also graduated from the University of Bucharest. 
+I had the priviledge to work, learn and make friends in many nice places: I was a postdoctoral researcher at Max Planck Institute for Informatics in the team of Gerhard Weikum, I did my PhD at Télécom Paris and my advisor was Mauro Sozio, and I also graduated from the University of Bucharest. 
 
 <br> 
 My research focuses on natural language processing methods that can improve the quality of public debate. By developing open-source algorithms, my team and I build tools designed to assist citizens and journalists in filtering, interpreting, and assimilating complex data. Ultimately, my work aims to make both public information and NLP tools more reliable and accountable.  
