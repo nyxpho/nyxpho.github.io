@@ -58,6 +58,8 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
+scholar_userid: hwfhGwgAAAAJ&sortby=pubdate
+
 # Dimensions
 max_width: 930px
 
