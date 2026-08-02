@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact</p>
-	<p>oana dot balalau at inria dot fr </p>
+    <p>oana dot balalau at inria dot fr </p>
     <p>Inria Saclay, Bâtiment Alan Turing, 1 rue Honoré d’Estienne d’Orvet</p>
     <p>Palaiseau, France</p>
 
