@@ -458,6 +458,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6F%61%6E%61 %64%6F%74 %62%61%6C%61%6C%61%75 %61%74 %69%6E%72%69%61 %64%6F%74 %66%72", "_blank");
+        },
+      },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
