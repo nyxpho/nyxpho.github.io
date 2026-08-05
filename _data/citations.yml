@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-05'
 papers:
   hwfhGwgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -30,16 +30,16 @@ papers:
     title: 'Statistical claim checking: Statcheck in action'
     year: '2022'
   hwfhGwgAAAAJ:L8Ckcad2t8MC:
-    citations: 4
-    title: 'Benchmarking the Benchmarks: Reproducing Climate-Related NLP Tasks'
+    citations: 5
+    title: 'Benchmarking the benchmarks: Reproducing climate-related nlp tasks'
     year: '2025'
   hwfhGwgAAAAJ:LkGwnXOMwfcC:
-    citations: 65
+    citations: 63
     title: Graph integration of structured, semistructured and unstructured data for data journalism
     year: '2022'
   hwfhGwgAAAAJ:M3ejUd6NZC8C:
-    citations: 5
-    title: Finding Subgraphs with Maximum Total Density and Limited Overlap in Weighted Hypergraphs
+    citations: 6
+    title: Finding subgraphs with maximum total density and limited overlap in weighted hypergraphs
     year: '2024'
   hwfhGwgAAAAJ:MXK_kJrjxJIC:
     citations: 0
@@ -50,8 +50,8 @@ papers:
     title: Finding Conflicts of Opinion in Citizen Participation Platforms
     year: '2024'
   hwfhGwgAAAAJ:Se3iqnhoufwC:
-    citations: 19
-    title: 'From the stage to the audience: Propaganda on reddit'
+    citations: 20
+    title: 'From the stage to the audience: Propaganda on Reddit'
     year: '2021'
   hwfhGwgAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
@@ -62,7 +62,7 @@ papers:
     title: Open information extraction with entity focused constraints
     year: '2023'
   hwfhGwgAAAAJ:UebtZRa9Y70C:
-    citations: 50
+    citations: 49
     title: Breaking down the invisible wall of informal fallacies in online discussions
     year: '2021'
   hwfhGwgAAAAJ:WF5omc3nYNoC:
@@ -71,19 +71,19 @@ papers:
     year: '2020'
   hwfhGwgAAAAJ:Wp0gIr-vW9MC:
     citations: 5
-    title: 'FactCheckBureau: Build Your Own Fact-Check Analysis Pipeline'
+    title: 'Factcheckbureau: Build your own fact-check analysis pipeline'
     year: '2024'
   hwfhGwgAAAAJ:Y0pCki6q_DkC:
-    citations: 156
+    citations: 158
     title: 'Prince: Provider-side interpretability with counterfactual explanations in recommender systems'
     year: '2020'
   hwfhGwgAAAAJ:ZeXyd9-uunAC:
-    citations: 3
+    citations: 5
     title: Structured discourse representation for factual consistency verification
     year: '2025'
   hwfhGwgAAAAJ:Zph67rFs4hoC:
     citations: 9
-    title: Fact-checking multidimensional statistic claims in French
+    title: Fact-checking multidimensional statistic claims in french
     year: '2022'
   hwfhGwgAAAAJ:_FxGoFyzp5QC:
     citations: 5
@@ -94,12 +94,12 @@ papers:
     title: 'FactSpotter: Evaluating the factual faithfulness of graph-to-text generation'
     year: '2023'
   hwfhGwgAAAAJ:d1gkVwhDpl0C:
-    citations: 207
+    citations: 206
     title: Listing k-cliques in sparse real-world graphs
     year: '2018'
   hwfhGwgAAAAJ:dhFuZR0502QC:
-    citations: 19
-    title: Corporate Greenwashing Detection in Text--a Survey
+    citations: 23
+    title: "Corporate greenwashing detection in text\u2013a survey"
     year: '2025'
   hwfhGwgAAAAJ:hC7cP41nSMkC:
     citations: 0
@@ -115,18 +115,18 @@ papers:
     year: '2024'
   hwfhGwgAAAAJ:qUcmZB5y_30C:
     citations: 2
-    title: 'The Search for Conflicts of Interest: Open Information Extraction in Scientific Publications'
+    title: 'The Search for Conflicts of Interest: Open Information Extraction in Scientific Publications.'
     year: '2025'
   hwfhGwgAAAAJ:qjMakFHDy7sC:
-    citations: 62
+    citations: 61
     title: Analyzing the traits and anomalies of political discussions on reddit
     year: '2019'
   hwfhGwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 2
+    citations: 3
     title: 'Graph lenses over any data: the ConnectionLens experience'
     year: '2024'
   hwfhGwgAAAAJ:roLk4NBRz8UC:
-    citations: 24
+    citations: 23
     title: Empowering investigative journalism with graph-based heterogeneous data management
     year: '2021'
   hwfhGwgAAAAJ:u-x6o8ySG0sC:
@@ -134,6 +134,6 @@ papers:
     title: Finding heaviest k-subgraphs and events in social media
     year: '2016'
   hwfhGwgAAAAJ:u5HHmVD_uO8C:
-    citations: 115
+    citations: 116
     title: Finding subgraphs with maximum total density and limited overlap
     year: '2015'
