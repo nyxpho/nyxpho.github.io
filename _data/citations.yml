@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-26'
 papers:
   hwfhGwgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: "2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)| 979-8-3315-0494-6/24/$31.00\xA9 2024 IEEE| DOI: 10.1109/WI-IAT62293. 2024.00148"
     year: Unknown Year
   hwfhGwgAAAAJ:IWHjjKOFINEC:
-    citations: 17
+    citations: 19
     title: 'Navigating the political compass: Evaluating multilingual llms across languages and nationalities'
     year: '2025'
   hwfhGwgAAAAJ:KlAtU1dfN6UC:
@@ -50,7 +50,7 @@ papers:
     title: Finding Conflicts of Opinion in Citizen Participation Platforms
     year: '2024'
   hwfhGwgAAAAJ:Se3iqnhoufwC:
-    citations: 20
+    citations: 21
     title: 'From the stage to the audience: Propaganda on Reddit'
     year: '2021'
   hwfhGwgAAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: 'Factcheckbureau: Build your own fact-check analysis pipeline'
     year: '2024'
   hwfhGwgAAAAJ:Y0pCki6q_DkC:
-    citations: 158
+    citations: 161
     title: 'Prince: Provider-side interpretability with counterfactual explanations in recommender systems'
     year: '2020'
   hwfhGwgAAAAJ:ZeXyd9-uunAC:
@@ -94,11 +94,11 @@ papers:
     title: 'FactSpotter: Evaluating the factual faithfulness of graph-to-text generation'
     year: '2023'
   hwfhGwgAAAAJ:d1gkVwhDpl0C:
-    citations: 206
+    citations: 207
     title: Listing k-cliques in sparse real-world graphs
     year: '2018'
   hwfhGwgAAAAJ:dhFuZR0502QC:
-    citations: 25
+    citations: 27
     title: "Corporate greenwashing detection in text\u2013a survey"
     year: '2025'
   hwfhGwgAAAAJ:hC7cP41nSMkC:
