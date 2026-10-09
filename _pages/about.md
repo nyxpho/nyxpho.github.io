@@ -47,7 +47,7 @@ My work is supported by ANR JCJC, Hi!Paris and PEPR Numérique Écoresponsable.
 <br> 	<br> 
 I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a> conferences and journals.
 	<br> 		<br>        
-
+Students: Gabriel Carlotti, co-advised with  <a href="https://letenothibaud.github.io/">Thibaud Leteno.</a><br>
 Alumni: 
 Tom Calamai (2022  - 2026), co-advised with <a href="https://suchanek.name/index.html">Fabian Suchanek.</a><br>
 <a href="https://guihuzhang.github.io">Kun Zhang</a> (2021 - 2025), co-advised with <a href="https://pages.saclay.inria.fr/ioana.manolescu/">Ioana Manolescu.</a> Now a postdoc at CNRS.
