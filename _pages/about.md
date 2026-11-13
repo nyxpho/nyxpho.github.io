@@ -43,8 +43,6 @@ Currently, my research spans the following main directions:
 - Climate NLP: My recent work identifies methodological gaps in the evaluation of climate NLP models and automated greenwashing detection. We are currently investigating how greenwashing manifests across diverse corporate communications and developing more robust NLP techniques to expose it.
 
 <br> 	<br> 
-My work is supported by ANR JCJC, Hi!Paris and PEPR Numérique Écoresponsable.
-<br> 	<br> 
 I accept reviewing for <a href="https://nofreeviewnoreview.org/">open-access </a> conferences and journals.
 	<br> 		<br>        
 Students: Gabriel Carlotti (2026 - present), co-advised with  <a href="https://letenothibaud.github.io/">Thibaud Leteno.</a><br>
